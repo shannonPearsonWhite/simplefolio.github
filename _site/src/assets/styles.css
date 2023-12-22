@@ -1,0 +1,26 @@
+npm install -g sass
+// Import any external SCSS files or libraries here
+
+// Define your variables
+$primary-color: #ff0000;
+$secondary-color: #00ff00;
+
+// Define your styles
+body {
+    background-color: $primary-color;
+    color: $secondary-color;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+}
+
+// Add more styles as needed
+    ```
+
+
