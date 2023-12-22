@@ -1,6 +1,6 @@
 {
     "name": "simplefolio",
-    "private": true,
+    "private": "true",
     "description": "A clean, beautiful and responsive portfolio ",
     "source": "src/index.html",
     "scripts": {
@@ -12,15 +12,15 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/shannonpearsonwhite/simplefolio.github.git"
+        "url": "git+https://shannonpearsonwhite.github/simplefolio.github/"
     },
     "keywords": [],
     "author": "FullStackShannon,LLC",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/shannonpearsonwhite/simplefolio.github/issues"
+        "url": "https://shannonpearsonwhite.github/simplefolio.github/"
     },
-    "homepage": "https://github.com/shannonpearsonwhite/simplefolio.github#readme",
+    "homepage": "https://shannonpearsonwhite.github/simplefolio.github/#readme",
     "devDependencies": {
         "@parcel/transformer-sass": "^2.10.3",
         "node-sass": "^9.0.0",
