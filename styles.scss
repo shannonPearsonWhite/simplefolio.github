@@ -1,11 +1,26 @@
-@import "./sass/vendors/bootstrap.scss";
+npm install -g sass
+// Import any external SCSS files or libraries here
 
-@import "./sass/abstracts/mixins"; @import "./sass/abstracts/variables"; @import "./sass/abstracts/helpers";
+// Define your variables
+$primary-color: #ff0000;
+$secondary-color: #00ff00;
 
-@import "./sass/base/base"; @import "./sass/base/typography";
+// Define your styles
+body {
+    background-color: $primary-color;
+    color: $secondary-color;
+}
 
-@import "./sass/components/buttons";
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
 
-@import "./sass/layout/footer"; @import "./sass/layout/sections";
+p {
+    font-size: 16px;
+}
 
-@import "./sass/sections/about"; @import "./sass/sections/contact"; @import "./sass/sections/hero";
+// Add more styles as needed
+    ```
+
+
