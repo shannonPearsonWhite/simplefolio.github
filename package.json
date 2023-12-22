@@ -1,8 +1,11 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "name": "simplefolio",
     "private": "true",
 =======
+=======
+>>>>>>> d6adf3e3c0d8dc4e6f6ca4983d4f2c9dd38d1fd5
 
     {
 >>>>>>> 8489251abd7a2ecaef5e04e7d45f16e7ca298bb1
@@ -42,7 +45,10 @@
             "vanilla-tilt": "^1.8.0"
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
     }
   
 =======
 >>>>>>> 8489251abd7a2ecaef5e04e7d45f16e7ca298bb1
+=======
+>>>>>>> d6adf3e3c0d8dc4e6f6ca4983d4f2c9dd38d1fd5
