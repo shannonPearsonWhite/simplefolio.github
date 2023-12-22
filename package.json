@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "simplefolio",
     "private": "true",
+=======
+
+    {
+>>>>>>> 8489251abd7a2ecaef5e04e7d45f16e7ca298bb1
         "name": "simplefolio",
        
         "description": "A clean, beautiful and responsive portfolio ",
@@ -36,5 +41,8 @@
             "popper.js": "^1.16.1",
             "vanilla-tilt": "^1.8.0"
         }
+<<<<<<< HEAD
     }
   
+=======
+>>>>>>> 8489251abd7a2ecaef5e04e7d45f16e7ca298bb1
