@@ -1,38 +1,37 @@
 {
-
-    {
-        "name": "simplefolio",
-        "private": "true",
-        "description": "A clean, beautiful and responsive portfolio ",
-        "source": "src/index.html",
-        "scripts": {
-            "scss": "node-sass --output-style compressed -o dist/css src/scss",
-            "watch:scss": "node-sass --watch src/scss -o dist/css",
-            "start": "parcel",
-            "build": "parcel build"
-        },
-        "main": "index.js",
-        "repository": {
-            "type": "git",
-            "url": "git+https://shannonpearsonwhite.github/simplefolio.github/"
-        },
-        "keywords": [],
-        "author": "FullStackShannon,LLC",
-        "license": "ISC",
-        "bugs": {
-            "url": "https://shannonpearsonwhite.github/simplefolio.github/"
-        },
-        "homepage": "https://shannonpearsonwhite.github/simplefolio.github/#readme",
-        "devDependencies": {
-            "@parcel/transformer-sass": "^2.10.3",
-            "node-sass": "^9.0.0",
-            "parcel": "^2.8.2",
-            "prettier": "^2.8.1"
-        },
-        "dependencies": {
-            "@popperjs/core": "^2.11.6",
-            "bootstrap": "^5.2.3",
-            "jquery": "^3.6.3",
-            "popper.js": "^1.16.1",
-            "vanilla-tilt": "^1.8.0"
-        }
+    "name": "simplefolio",
+    "private": "true",
+    "description": "A clean, beautiful and responsive portfolio ",
+    "source": "src/index.html",
+    "scripts": {
+        "scss": "node-sass --output-style compressed -o dist/css src/scss",
+        "watch:scss": "node-sass --watch src/scss -o dist/css",
+        "start": "parcel",
+        "build": "parcel build"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://shannonpearsonwhite.github/simplefolio.github/"
+    },
+    "keywords": [],
+    "author": "FullStackShannon,LLC",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://shannonpearsonwhite.github/simplefolio.github/"
+    },
+    "homepage": "https://shannonpearsonwhite.github/simplefolio.github/#readme",
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.10.3",
+        "node-sass": "^9.0.0",
+        "parcel": "^2.8.2",
+        "prettier": "^2.8.1"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.6",
+        "bootstrap": "^5.2.3",
+        "jquery": "^3.6.3",
+        "popper.js": "^1.16.1",
+        "vanilla-tilt": "^1.8.0"
+    }
+}
