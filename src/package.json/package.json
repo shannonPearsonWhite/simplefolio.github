@@ -1,0 +1,10 @@
+{
+    "name": "simplefolio.github",
+    "description": "A simple portfolio repository",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shannonpearsonwhite/simplefolio.github.git"
+    },
+    "author": "shannonpearsonwhite",
+    "license": "MIT"
+}
