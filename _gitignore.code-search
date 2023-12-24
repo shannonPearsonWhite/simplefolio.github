@@ -1,0 +1,11 @@
+# Query: .gitignore
+# ContextLines: 1
+
+1 result - 1 file
+
+.parcel-cache\8b386a8d2749262f.txt:
+  30  101C:\Users\shann\OneDrive\Desktop\simplefolio\node_modules\@parcel\core\test\fixtures\duplicate-targets133473739139714260 1
+  31: 54C:\Users\shann\OneDrive\Desktop\simplefolio\.gitignore133473738558074617 0
+  32  56C:\Users\shann\OneDrive\Desktop\simplefolio\package.json133473741976379786 0
+
+node_modules/

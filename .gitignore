@@ -1,1 +1,5 @@
 node_modules/
+**/node_modules/
+node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
+ simplefolio.github.git/objects/pack/pack-6bc9a3d9681e19f08095bdc24017db7cd5d26067.pack
+ d51c28625ef74347921fa37c352b31b9974a4ab4a7150042783586e5e858ca2f
