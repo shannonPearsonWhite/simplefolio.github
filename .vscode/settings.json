@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.defaultFormatter": "vscode.git",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.indentSize": "tabSize",
+    "editor.mouseWheelZoom": true,
+    "editor.smoothScrolling": true,
+    "editor.formatOnSave": true,
+    "diffEditor.experimental.showMoves": true,
+    "multiDiffEditor.experimental.enabled": true,
+    "files.autoGuessEncoding": true,
+    "files.exclude": {
+        "": true,
+        "**/.git": true
+    }
+}
