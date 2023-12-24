@@ -12,6 +12,32 @@
     "files.autoGuessEncoding": true,
     "files.exclude": {
         "": true,
-        "**/.git": true
+        "**/.git": true,
+        "**/.node_modules": false
+    },
+    "editor.wordWrap": "on",
+    "editor.defaultFoldingRangeProvider": "GitHub.copilot",
+    "editor.tokenColorCustomizations": {
+        "[Default Dark Modern]": {},
+        "[*Light*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                }
+            ]
+        },
+        "[*Dark*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#fff"
+                    }
+                }
+            ]
+        }
     }
 }
